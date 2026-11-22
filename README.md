@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Jana Sami Darwish — Software Engineering Student & Frontend Developer!
+### 👋 Hello, I'm Jana Sami Darwish — Informatics Engineering Student & Frontend Developer!
 
 I'm a 1st-year Informatics Engineering student at the Syrian Virtual University (SVU) with a strong foundation in building modern, responsive, and user-centric web applications. Certified by **Meta (Front-End Developer Professional Certificate)**, I love turning creative designs into functional, clean code.
 
