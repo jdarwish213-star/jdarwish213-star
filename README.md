@@ -5,7 +5,7 @@ I'm a 1st-year Informatics Engineering student at the Syrian Virtual University 
 - 🔭 I’m currently expanding my skills in **React (Advanced concepts)** and UI/UX design with **Figma**.
 - 🌱 I'm always exploring modern JavaScript, Object-Oriented Programming (OOP), and advanced frontend tools.
 - 💼 Open for frontend opportunities, internships, and collaborative projects.
-- 📫 How to reach me: [اكتبي إيميلك هنا أو رابط لينكد إن]
+- 📫 How to reach me: [ jdarwish213@gmail.com ]
 
 ---
 
